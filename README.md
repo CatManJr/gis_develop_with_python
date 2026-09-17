@@ -9,7 +9,7 @@ Code for a hands-on textbook for learning GIS development with Python - **176 wo
 ---
 
 ## How to use the code
->Ideally, the code could be used as the companion for the book mentioned above. However, an English version of the original textbook is merely likely tp be published in a short time. We suggest readers directly go through the Python notebooks for self-learning.
+>Ideally, the code could be used as the companion for the book mentioned above. However, an English version of the original textbook is not likely to be published in the close future. So, we suggest readers directly go through the Python notebooks for self-learning.
 
 | Folder | Contents |
 | --- | --- |

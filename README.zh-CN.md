@@ -8,7 +8,7 @@
 
 | 项目 | 内容 |
 | --- | --- |
-| 书名 | 《GIS软件开发——基于Python编程语言》 |
+| 书名 | 《GIS软件开发-基于Python编程语言》 |
 | 作者 | 吴健平 |
 | 书号 | 978-7-03-084099-8 |
 
@@ -16,7 +16,7 @@
 
 | 角色 | 仓库 |
 | --- | --- |
-| **上游仓库**（中文原版） | [`EcnuGISChaser/gis_develop_with_python`](https://github.com/EcnuGISChaser/gis_develop_with_python) |
+| **中文原版** | [`EcnuGISChaser/gis_develop_with_python`](https://github.com/EcnuGISChaser/gis_develop_with_python) |
 | **本仓库**（fork，用于开发英文版） | `CatManJr/gis_develop_with_python` |
 
 中文原文保留在此文件中，英文版见 [README.md](README.md)。

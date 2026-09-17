@@ -1,21 +1,15 @@
 # GIS Software Development with Python
+Code for a hands-on textbook for learning GIS development with Python - **176 worked examples** across 14 chapters, covering spatial data formats, coordinate systems, web services, vector and raster analysis, and mapping on the web and on the desktop.
 
-《GIS软件开发-基于Python编程语言》 · **吴健平 (Professor Jianping Wu from East China Normal University)** · ISBN `978-7-03-084099-8`
-
-A hands-on textbook for learning GIS development with Python - **176 worked examples** across 14 chapters, covering spatial data formats, coordinate systems, web services, vector and raster analysis, and mapping on the web and on the desktop.
-
-> **English edition - work in progress.**
-> Translated from the upstream repository
-> [`EcnuGISChaser/gis_develop_with_python`](https://github.com/EcnuGISChaser/gis_develop_with_python) - the companion code for the book
-> **_GIS Software Development - Based on the Python Programming Language_** (《GIS软件开发-基于Python编程语言》)
-> by **吴健平 (Wu Jianping), professor, School of Geographic Sciences, East China Normal University, Shanghai, CHN**, ISBN `978-7-03-084099-8`.
-> The Chinese original is  here at [EcnuGISChaser/gis_develop_with_python](https://github.com/EcnuGISChaser/gis_develop_with_python).
+>Original book:《GIS软件开发-基于Python编程语言》· **吴健平 (Professor Jianping Wu from East China Normal University)** · ISBN `978-7-03-084099-8`
+>Original code at [`EcnuGISChaser/gis_develop_with_python`](https://github.com/EcnuGISChaser/gis_develop_with_python) - the companion code for the book
 
 [简体中文](README.zh-CN.md)
 
 ---
 
 ## How to use the code
+>Ideally, the code could be used as the companion for the book mentioned above. However, an English version of the original textbook is merely likely tp be published in a short time. We suggest readers directly go through the Python notebooks for self-learning.
 
 | Folder | Contents |
 | --- | --- |
